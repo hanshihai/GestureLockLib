@@ -1,0 +1,10 @@
+geslock.iws
+.idea/workspace.xml
+geslock/build/
+.idea/
+build/
+gesturelock.iml
+geslock/geslock.iml
+.gradle/2.14.1/taskArtifacts/
+.gradle/2.14.1/tasks/
+
