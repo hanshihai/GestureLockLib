@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.gusturelock;
+package com.gesturelocklib;
 
 
 import android.content.Context;
@@ -38,7 +38,7 @@ import android.view.View;
 import android.view.accessibility.AccessibilityManager;
 
 //import com.google.android.collect.Lists;
-import com.gusturelock.R;
+import com.gesturelocklib.R;
 
 import java.util.ArrayList;
 import java.util.List;

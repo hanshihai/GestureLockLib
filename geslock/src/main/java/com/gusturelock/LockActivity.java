@@ -2,8 +2,9 @@ package com.gusturelock;
 
 import java.util.List;
 
-import com.gusturelock.LockPatternView.Cell;
-import com.gusturelock.LockPatternView.DisplayMode;
+import com.gesturelocklib.LockPatternView;
+import com.gesturelocklib.LockPatternView.Cell;
+import com.gesturelocklib.LockPatternView.DisplayMode;
 
 import android.os.Bundle;
 import android.app.Activity;

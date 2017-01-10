@@ -1,1 +1,1 @@
-include ':geslock'
+include ':geslock', ':gesturelocklib'

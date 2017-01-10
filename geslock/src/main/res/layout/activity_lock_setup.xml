@@ -5,7 +5,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity" >
 
-    <com.gusturelock.LockPatternView
+    <com.gesturelocklib.LockPatternView
         android:id="@+id/lock_pattern"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
